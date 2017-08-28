@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">FlightScopeHost</string>
+    <string name="main_fragment">main_fragment</string>
+    <string name="video_fragment">video_fragment</string>
+
+    <string name="video_path">path</string>
+</resources>
